@@ -1,0 +1,14 @@
+graphpack
+graphpack.extensions
+graphpack.local
+graphpack.local.persistence
+graphpack.local.persistence.JDO3
+graphpack.local.persistence.inmemory
+graphpack.matching
+graphpack.parsing.java
+graphpack.parsing.scala
+graphpack.remote
+graphpack.remote.rmi
+graphpack.taskprocessing
+graphpack.taskprocessing.quartz
+graphpack.tests
