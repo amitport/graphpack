@@ -15,7 +15,7 @@
 			<arguments>
 				<dictionary>
 					<key>LaunchConfigHandle</key>
-					<value>&lt;project&gt;/.externalToolBuilders/javadoc builder.launch</value>
+					<value>&lt;project&gt;/.externalToolBuilders/graphpack javadoc builder.launch</value>
 				</dictionary>
 			</arguments>
 		</buildCommand>
