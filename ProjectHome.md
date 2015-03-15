@@ -11,7 +11,7 @@ In GraphPack each client graph is managed by some GraphPack service that is trus
 
 | **GraphPack's model:** |
 |:-----------------------|
-| http://graphpack.googlecode.com/svn/trunk/graphpack_model.PNG |
+| ![GraphPack model](https://raw.githubusercontent.com/amitport/graphpack/master/graphpack_model.PNG) |
 
 
 ---
